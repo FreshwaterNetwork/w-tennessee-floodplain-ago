@@ -1,0 +1,15 @@
+{
+	"hucLayer": "HUC 8s",
+	"mngmtAction": "",
+	"floodFreq": "1",
+	"huc": "0",
+	"ffDef": "",
+	"exp": "",
+	"slIdsVals": [],
+	"slCbIds": [],
+	"rbIds": [],
+	"rbCbIds": [],
+	"supLyrIds": [],
+	"extent": {},
+	"stateSet": "no"
+}
